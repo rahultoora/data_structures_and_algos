@@ -2,7 +2,7 @@ To recall, arrays are a way of storing data contiguously. In strictly typed lang
 
 These are known as static arrays. Loosely typed languages such as Python and JavaScript do not have static arrays, which we will discuss in the next chapter.
 
-Arrays are a very popular topic in coding interviews since they are one of the most fundamental data structures. In fact, there are many data structures and algorithms which use an array in their underlying implementation - we will discuss these later in the course. As such, it is essential to know the basic operations that can be performed on an array. The most common operations are:
+It is essential to know the basic operations that can be performed on an array. The most common operations are:
 
 - Reading
 - Deletion
